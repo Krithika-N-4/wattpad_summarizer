@@ -1,6 +1,6 @@
 Flask
 requests
 python-dotenv
-playwright
+playwright==1.42.0
 beautifulsoup4
 gunicorn
