@@ -5,7 +5,7 @@ WORKDIR /app
 COPY requirements.txt . 
 
 # Use pip3 instead of pip
-RUN apt-get update && apt-get install -y python3-pip
+RUN apt-get update && apt-get install -y python3 python3-pip
 RUN pip3 install --no-cache-dir -r requirements.txt  
 
 COPY . .  

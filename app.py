@@ -174,7 +174,7 @@ def scrape():
         
         # Run the scraping script with the URL
         result = subprocess.run(
-            ["python", "scrape_wattpad.py", url], 
+            ["python3", "scrape_wattpad.py", url], 
             stdout=subprocess.PIPE, 
             stderr=subprocess.PIPE, 
             text=True,
