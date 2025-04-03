@@ -1,0 +1,634 @@
+[0329/185750.379:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-LcAGiX\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0329/185750.390:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0329/185750.392:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0329/185750.392:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-LcAGiX\Default\Code Cache\js
+[0329/185750.392:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0329/185750.392:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0329/185750.393:ERROR:disk_cache.cc(216)] Unable to create cache
+[0329/185750.394:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-LcAGiX\Default\Shared Dictionary: Access is denied. (0x5)
+[0329/185750.395:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0329/185750.395:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-LcAGiX\Default\Code Cache\wasm
+[0329/185750.396:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0329/185750.396:ERROR:disk_cache.cc(216)] Unable to create cache
+[0329/185750.397:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-LcAGiX\Default\Network: Access is denied. (0x5)
+[0329/185750.397:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-LcAGiX\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0329/185751.393:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-LcAGiX\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-LcAGiX\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/185752.411:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-LcAGiX\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-LcAGiX\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/185753.429:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-LcAGiX\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-LcAGiX\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/185754.446:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-LcAGiX\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-LcAGiX\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/185755.459:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-LcAGiX\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-LcAGiX\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/210101.362:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HBXHlP\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0329/210101.365:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0329/210101.366:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0329/210101.366:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HBXHlP\Default\Shared Dictionary: Access is denied. (0x5)
+[0329/210101.367:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0329/210101.367:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HBXHlP\Default\Code Cache\js
+[0329/210101.368:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0329/210101.368:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HBXHlP\Default\Code Cache\wasm
+[0329/210101.368:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0329/210101.368:ERROR:disk_cache.cc(216)] Unable to create cache
+[0329/210101.368:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0329/210101.369:ERROR:disk_cache.cc(216)] Unable to create cache
+[0329/210101.369:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HBXHlP\Default\Network: Access is denied. (0x5)
+[0329/210101.372:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HBXHlP\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0329/210102.367:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HBXHlP\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HBXHlP\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/210103.379:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HBXHlP\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HBXHlP\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/210104.392:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HBXHlP\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HBXHlP\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/210105.406:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HBXHlP\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HBXHlP\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/210106.417:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HBXHlP\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HBXHlP\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/211639.465:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-cyRWEd\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0329/211639.480:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0329/211639.483:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0329/211639.484:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-cyRWEd\Default\Code Cache\js
+[0329/211639.485:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0329/211639.485:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0329/211639.486:ERROR:disk_cache.cc(216)] Unable to create cache
+[0329/211639.487:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-cyRWEd\Default\Shared Dictionary: Access is denied. (0x5)
+[0329/211639.490:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0329/211639.490:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-cyRWEd\Default\Code Cache\wasm
+[0329/211639.491:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0329/211639.491:ERROR:disk_cache.cc(216)] Unable to create cache
+[0329/211639.492:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-cyRWEd\Default\Network: Access is denied. (0x5)
+[0329/211639.492:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-cyRWEd\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0329/211640.491:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-cyRWEd\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-cyRWEd\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/211641.502:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-cyRWEd\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-cyRWEd\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/211642.514:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-cyRWEd\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-cyRWEd\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/211643.525:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-cyRWEd\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-cyRWEd\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/211644.535:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-cyRWEd\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-cyRWEd\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/212518.435:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-hypzCp\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0329/212518.440:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0329/212518.444:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0329/212518.444:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-hypzCp\Default\Code Cache\js
+[0329/212518.445:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0329/212518.445:ERROR:disk_cache.cc(216)] Unable to create cache
+[0329/212518.454:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0329/212518.458:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0329/212518.458:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-hypzCp\Default\Code Cache\wasm
+[0329/212518.459:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-hypzCp\Default\Shared Dictionary: Access is denied. (0x5)
+[0329/212518.460:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0329/212518.461:ERROR:disk_cache.cc(216)] Unable to create cache
+[0329/212518.463:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-hypzCp\Default\Network: Access is denied. (0x5)
+[0329/212518.463:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-hypzCp\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0329/212519.473:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-hypzCp\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-hypzCp\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/212520.485:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-hypzCp\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-hypzCp\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/212521.501:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-hypzCp\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-hypzCp\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/212522.507:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-hypzCp\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-hypzCp\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0329/212523.522:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-hypzCp\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-hypzCp\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/134649.348:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-kuwEM4\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/134649.350:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-kuwEM4\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/134649.352:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-kuwEM4\Default\Network: Access is denied. (0x5)
+[0330/134649.360:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/134649.361:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/134649.362:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/134649.362:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-kuwEM4\Default\Code Cache\wasm
+[0330/134649.363:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/134649.363:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-kuwEM4\Default\Code Cache\js
+[0330/134649.372:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/134649.373:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/134649.373:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/134649.373:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/134649.374:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-kuwEM4\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/134650.365:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-kuwEM4\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-kuwEM4\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/134651.376:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-kuwEM4\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-kuwEM4\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/134652.386:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-kuwEM4\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-kuwEM4\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/134653.397:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-kuwEM4\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-kuwEM4\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/134654.412:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-kuwEM4\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-kuwEM4\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/142753.370:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-lc69j4\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/142753.372:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-lc69j4\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/142753.375:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-lc69j4\Default\Network: Access is denied. (0x5)
+[0330/142753.375:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/142753.376:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/142753.376:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/142753.376:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-lc69j4\Default\Code Cache\js
+[0330/142753.377:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/142753.377:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-lc69j4\Default\Code Cache\wasm
+[0330/142753.377:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/142753.377:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/142753.377:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/142753.377:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/142753.378:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-lc69j4\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/142754.379:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-lc69j4\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-lc69j4\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/142755.394:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-lc69j4\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-lc69j4\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/142756.435:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-lc69j4\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-lc69j4\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/142757.441:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-lc69j4\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-lc69j4\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/142758.454:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-lc69j4\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-lc69j4\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/145758.715:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-gWSeYG\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/145758.719:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/145758.719:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/145758.719:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-gWSeYG\Default\Code Cache\js
+[0330/145758.720:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/145758.720:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/145758.720:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/145758.720:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-gWSeYG\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/145758.721:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/145758.721:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-gWSeYG\Default\Code Cache\wasm
+[0330/145758.721:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/145758.721:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/145758.721:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-gWSeYG\Default\Network: Access is denied. (0x5)
+[0330/145758.721:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-gWSeYG\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/145759.724:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-gWSeYG\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-gWSeYG\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/145800.746:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-gWSeYG\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-gWSeYG\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/145801.752:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-gWSeYG\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-gWSeYG\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/145802.765:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-gWSeYG\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-gWSeYG\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/145803.774:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-gWSeYG\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-gWSeYG\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/150024.722:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-7uB11a\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/150024.723:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-7uB11a\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/150024.724:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-7uB11a\Default\Network: Access is denied. (0x5)
+[0330/150024.750:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-7uB11a\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/150024.753:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/150024.754:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/150024.754:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/150024.755:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-7uB11a\Default\Code Cache\wasm
+[0330/150024.755:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/150024.755:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-7uB11a\Default\Code Cache\js
+[0330/150024.755:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/150024.755:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/150024.755:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/150024.755:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/150025.761:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-7uB11a\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-7uB11a\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/150026.777:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-7uB11a\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-7uB11a\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/150027.793:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-7uB11a\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-7uB11a\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/150028.797:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-7uB11a\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-7uB11a\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/150029.827:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-7uB11a\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-7uB11a\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/150421.651:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-KTwwet\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/150421.665:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/150421.668:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/150421.670:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/150421.670:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/150421.670:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-KTwwet\Default\Code Cache\js
+[0330/150421.670:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-KTwwet\Default\Code Cache\wasm
+[0330/150421.671:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-KTwwet\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/150421.671:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/150421.672:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/150421.671:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/150421.672:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/150421.673:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-KTwwet\Default\Network: Access is denied. (0x5)
+[0330/150421.673:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-KTwwet\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/150422.687:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-KTwwet\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-KTwwet\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/150423.699:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-KTwwet\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-KTwwet\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/150424.711:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-KTwwet\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-KTwwet\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/150425.723:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-KTwwet\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-KTwwet\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/150426.736:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-KTwwet\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-KTwwet\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/151009.640:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/151009.640:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-pdcSI5\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/151009.649:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/151009.650:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/151009.650:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-pdcSI5\Default\Code Cache\wasm
+[0330/151009.651:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/151009.651:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-pdcSI5\Default\Code Cache\js
+[0330/151009.651:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/151009.651:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/151009.651:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/151009.652:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/151009.652:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-pdcSI5\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/151009.653:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-pdcSI5\Default\Network: Access is denied. (0x5)
+[0330/151009.654:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-pdcSI5\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/151010.651:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-pdcSI5\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-pdcSI5\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/151011.664:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-pdcSI5\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-pdcSI5\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/151012.679:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-pdcSI5\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-pdcSI5\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/151013.694:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-pdcSI5\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-pdcSI5\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/151014.708:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-pdcSI5\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-pdcSI5\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/152503.445:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-tFDcy4\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/152503.447:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-tFDcy4\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/152503.459:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/152503.459:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-tFDcy4\Default\Network: Access is denied. (0x5)
+[0330/152503.459:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/152503.460:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/152503.460:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-tFDcy4\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/152503.460:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-tFDcy4\Default\Code Cache\js
+[0330/152503.460:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/152503.460:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-tFDcy4\Default\Code Cache\wasm
+[0330/152503.461:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/152503.461:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/152503.461:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/152503.461:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/152504.475:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-tFDcy4\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-tFDcy4\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/152505.486:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-tFDcy4\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-tFDcy4\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/152506.499:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-tFDcy4\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-tFDcy4\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/152507.509:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-tFDcy4\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-tFDcy4\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/152508.526:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-tFDcy4\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-tFDcy4\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/155717.148:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-wMzaMJ\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/155717.151:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-wMzaMJ\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/155717.152:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/155717.152:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/155717.153:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/155717.153:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-wMzaMJ\Default\Code Cache\js
+[0330/155717.153:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/155717.153:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-wMzaMJ\Default\Code Cache\wasm
+[0330/155717.153:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-wMzaMJ\Default\Network: Access is denied. (0x5)
+[0330/155717.153:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/155717.153:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/155717.154:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/155717.154:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/155717.159:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-wMzaMJ\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/155718.160:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-wMzaMJ\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-wMzaMJ\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/155719.173:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-wMzaMJ\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-wMzaMJ\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/155720.187:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-wMzaMJ\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-wMzaMJ\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/155721.201:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-wMzaMJ\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-wMzaMJ\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/155722.214:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-wMzaMJ\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-wMzaMJ\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/161533.475:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qOHb38\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/161533.487:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/161533.488:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/161533.488:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qOHb38\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/161533.489:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/161533.489:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qOHb38\Default\Code Cache\js
+[0330/161533.490:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/161533.490:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/161533.490:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qOHb38\Default\Network: Access is denied. (0x5)
+[0330/161533.490:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qOHb38\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/161533.490:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/161533.490:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qOHb38\Default\Code Cache\wasm
+[0330/161533.490:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/161533.491:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/161534.500:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qOHb38\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qOHb38\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/161535.513:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qOHb38\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qOHb38\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/161536.524:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qOHb38\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qOHb38\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/161537.534:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qOHb38\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qOHb38\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/161538.549:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qOHb38\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qOHb38\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/164042.315:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-60BUhB\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/164042.323:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/164042.323:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/164042.324:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/164042.324:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-60BUhB\Default\Code Cache\wasm
+[0330/164042.324:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-60BUhB\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/164042.324:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/164042.324:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-60BUhB\Default\Code Cache\js
+[0330/164042.324:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/164042.324:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/164042.325:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/164042.325:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-60BUhB\Default\Network: Access is denied. (0x5)
+[0330/164042.325:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/164042.325:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-60BUhB\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/164043.331:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-60BUhB\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-60BUhB\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/164044.343:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-60BUhB\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-60BUhB\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/164045.356:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-60BUhB\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-60BUhB\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/164046.365:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-60BUhB\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-60BUhB\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/164047.379:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-60BUhB\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-60BUhB\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165309.287:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-RUtwqt\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/165309.291:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/165309.302:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/165309.307:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/165309.308:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-RUtwqt\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/165309.308:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-RUtwqt\Default\Code Cache\js
+[0330/165309.310:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/165309.310:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/165309.312:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/165309.312:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-RUtwqt\Default\Code Cache\wasm
+[0330/165309.313:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-RUtwqt\Default\Network: Access is denied. (0x5)
+[0330/165309.314:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/165309.314:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-RUtwqt\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/165309.314:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/165310.318:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-RUtwqt\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-RUtwqt\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165311.332:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-RUtwqt\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-RUtwqt\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165312.340:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-RUtwqt\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-RUtwqt\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165313.351:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-RUtwqt\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-RUtwqt\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165314.367:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-RUtwqt\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-RUtwqt\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165454.292:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WCYrjq\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/165454.295:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/165454.297:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/165454.299:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WCYrjq\Default\Code Cache\wasm
+[0330/165454.299:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/165454.300:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/165454.310:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/165454.313:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WCYrjq\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/165454.315:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/165454.315:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WCYrjq\Default\Code Cache\js
+[0330/165454.316:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WCYrjq\Default\Network: Access is denied. (0x5)
+[0330/165454.316:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/165454.317:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/165454.317:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WCYrjq\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/165455.326:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WCYrjq\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WCYrjq\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165456.336:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WCYrjq\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WCYrjq\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165457.349:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WCYrjq\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WCYrjq\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165458.364:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WCYrjq\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WCYrjq\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165459.377:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WCYrjq\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WCYrjq\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165737.423:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HfijyI\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/165737.425:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/165737.426:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/165737.428:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/165737.428:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HfijyI\Default\Code Cache\js
+[0330/165737.429:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/165737.429:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HfijyI\Default\Code Cache\wasm
+[0330/165737.429:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HfijyI\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/165737.429:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/165737.429:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/165737.430:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/165737.430:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/165737.431:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HfijyI\Default\Network: Access is denied. (0x5)
+[0330/165737.431:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HfijyI\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/165738.439:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HfijyI\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HfijyI\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165739.453:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HfijyI\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HfijyI\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165740.463:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HfijyI\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HfijyI\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165741.473:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HfijyI\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HfijyI\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165742.485:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HfijyI\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-HfijyI\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165850.959:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-I0xj6k\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/165850.983:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/165850.987:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/165850.987:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-I0xj6k\Default\Code Cache\js
+[0330/165850.988:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-I0xj6k\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/165850.988:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/165850.988:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/165850.990:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/165850.992:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-I0xj6k\Default\Network: Access is denied. (0x5)
+[0330/165850.993:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-I0xj6k\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/165850.994:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/165850.994:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-I0xj6k\Default\Code Cache\wasm
+[0330/165850.995:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/165850.996:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/165851.998:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-I0xj6k\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-I0xj6k\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165853.005:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-I0xj6k\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-I0xj6k\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165854.021:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-I0xj6k\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-I0xj6k\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165855.032:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-I0xj6k\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-I0xj6k\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/165856.045:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-I0xj6k\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-I0xj6k\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/170224.063:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-virMd3\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/170224.066:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/170224.077:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/170224.080:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/170224.081:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-virMd3\Default\Code Cache\js
+[0330/170224.081:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/170224.081:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-virMd3\Default\Code Cache\wasm
+[0330/170224.081:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-virMd3\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/170224.082:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/170224.083:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/170224.082:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/170224.083:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/170224.086:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-virMd3\Default\Network: Access is denied. (0x5)
+[0330/170224.087:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-virMd3\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/170225.096:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-virMd3\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-virMd3\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/170226.109:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-virMd3\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-virMd3\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/170227.120:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-virMd3\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-virMd3\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/170228.139:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-virMd3\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-virMd3\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/170229.149:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-virMd3\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-virMd3\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/170537.442:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-NvmhCA\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/170537.445:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/170537.445:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/170537.459:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/170537.460:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-NvmhCA\Default\Code Cache\js
+[0330/170537.460:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/170537.460:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-NvmhCA\Default\Code Cache\wasm
+[0330/170537.460:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-NvmhCA\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/170537.461:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/170537.461:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/170537.462:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/170537.462:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/170537.466:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-NvmhCA\Default\Network: Access is denied. (0x5)
+[0330/170537.467:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-NvmhCA\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/170538.469:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-NvmhCA\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-NvmhCA\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/170539.482:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-NvmhCA\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-NvmhCA\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/170540.494:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-NvmhCA\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-NvmhCA\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/170541.506:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-NvmhCA\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-NvmhCA\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/170542.519:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-NvmhCA\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-NvmhCA\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/171517.362:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WfWqun\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/171517.378:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/171517.381:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/171517.381:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/171517.381:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WfWqun\Default\Code Cache\js
+[0330/171517.381:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WfWqun\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/171517.382:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/171517.382:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/171517.383:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/171517.383:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WfWqun\Default\Code Cache\wasm
+[0330/171517.383:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WfWqun\Default\Network: Access is denied. (0x5)
+[0330/171517.383:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WfWqun\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/171517.383:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/171517.384:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/171518.382:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WfWqun\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WfWqun\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/171519.394:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WfWqun\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WfWqun\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/171520.406:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WfWqun\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WfWqun\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/171521.416:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WfWqun\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WfWqun\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/171522.430:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WfWqun\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-WfWqun\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/171829.910:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-3TUoSh\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0330/171829.915:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/171829.929:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/171829.929:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/171829.929:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-3TUoSh\Default\Code Cache\js
+[0330/171829.931:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/171829.932:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/171829.932:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-3TUoSh\Default\Shared Dictionary: Access is denied. (0x5)
+[0330/171829.933:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0330/171829.933:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-3TUoSh\Default\Code Cache\wasm
+[0330/171829.934:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0330/171829.935:ERROR:disk_cache.cc(216)] Unable to create cache
+[0330/171829.936:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-3TUoSh\Default\Network: Access is denied. (0x5)
+[0330/171829.937:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-3TUoSh\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0330/171830.937:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-3TUoSh\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-3TUoSh\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/171831.949:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-3TUoSh\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-3TUoSh\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/171832.964:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-3TUoSh\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-3TUoSh\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/171833.974:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-3TUoSh\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-3TUoSh\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0330/171834.989:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-3TUoSh\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-3TUoSh\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/130107.314:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-Xr2S1f\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0331/130107.320:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0331/130107.322:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0331/130107.322:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0331/130107.322:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-Xr2S1f\Default\Code Cache\js
+[0331/130107.323:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-Xr2S1f\Default\Shared Dictionary: Access is denied. (0x5)
+[0331/130107.323:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0331/130107.324:ERROR:disk_cache.cc(216)] Unable to create cache
+[0331/130107.324:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0331/130107.324:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-Xr2S1f\Default\Code Cache\wasm
+[0331/130107.324:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0331/130107.325:ERROR:disk_cache.cc(216)] Unable to create cache
+[0331/130107.325:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-Xr2S1f\Default\Network: Access is denied. (0x5)
+[0331/130107.327:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-Xr2S1f\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0331/130108.327:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-Xr2S1f\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-Xr2S1f\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/130109.360:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-Xr2S1f\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-Xr2S1f\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/130110.378:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-Xr2S1f\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-Xr2S1f\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/130111.382:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-Xr2S1f\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-Xr2S1f\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/130112.394:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-Xr2S1f\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-Xr2S1f\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/131030.804:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-AKnGnD\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0331/131030.807:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0331/131030.808:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0331/131030.808:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-AKnGnD\Default\Shared Dictionary: Access is denied. (0x5)
+[0331/131030.810:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0331/131030.811:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-AKnGnD\Default\Code Cache\wasm
+[0331/131030.811:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0331/131030.811:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-AKnGnD\Default\Network: Access is denied. (0x5)
+[0331/131030.811:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-AKnGnD\Default\Code Cache\js
+[0331/131030.812:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0331/131030.812:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0331/131030.812:ERROR:disk_cache.cc(216)] Unable to create cache
+[0331/131030.812:ERROR:disk_cache.cc(216)] Unable to create cache
+[0331/131030.817:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-AKnGnD\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0331/131031.813:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-AKnGnD\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-AKnGnD\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/131032.828:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-AKnGnD\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-AKnGnD\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/131033.834:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-AKnGnD\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-AKnGnD\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/131034.850:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-AKnGnD\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-AKnGnD\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/131035.865:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-AKnGnD\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-AKnGnD\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/131742.427:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0331/131742.426:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oJiZcj\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0331/131742.427:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0331/131742.429:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0331/131742.429:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oJiZcj\Default\Code Cache\js
+[0331/131742.429:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0331/131742.429:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oJiZcj\Default\Code Cache\wasm
+[0331/131742.429:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0331/131742.429:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0331/131742.430:ERROR:disk_cache.cc(216)] Unable to create cache
+[0331/131742.430:ERROR:disk_cache.cc(216)] Unable to create cache
+[0331/131742.430:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oJiZcj\Default\Shared Dictionary: Access is denied. (0x5)
+[0331/131742.431:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oJiZcj\Default\Network: Access is denied. (0x5)
+[0331/131742.434:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oJiZcj\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0331/131743.431:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oJiZcj\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oJiZcj\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/131744.446:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oJiZcj\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oJiZcj\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/131745.458:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oJiZcj\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oJiZcj\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/131746.473:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oJiZcj\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oJiZcj\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/131747.484:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oJiZcj\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oJiZcj\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/132009.359:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-JiSPxX\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0331/132009.372:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0331/132009.374:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-JiSPxX\Default\Shared Dictionary: Access is denied. (0x5)
+[0331/132009.375:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0331/132009.376:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0331/132009.376:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-JiSPxX\Default\Code Cache\js
+[0331/132009.377:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0331/132009.377:ERROR:disk_cache.cc(216)] Unable to create cache
+[0331/132009.378:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-JiSPxX\Default\Network: Access is denied. (0x5)
+[0331/132009.378:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-JiSPxX\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0331/132009.379:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0331/132009.379:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-JiSPxX\Default\Code Cache\wasm
+[0331/132009.379:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0331/132009.380:ERROR:disk_cache.cc(216)] Unable to create cache
+[0331/132010.389:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-JiSPxX\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-JiSPxX\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/132011.400:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-JiSPxX\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-JiSPxX\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/132012.415:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-JiSPxX\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-JiSPxX\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/132013.428:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-JiSPxX\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-JiSPxX\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0331/132014.441:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-JiSPxX\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-JiSPxX\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/154902.727:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-epFgIb\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0402/154902.730:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/154902.731:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/154902.735:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/154902.735:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-epFgIb\Default\Code Cache\js
+[0402/154902.735:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/154902.736:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-epFgIb\Default\Code Cache\wasm
+[0402/154902.737:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0402/154902.737:ERROR:disk_cache.cc(216)] Unable to create cache
+[0402/154902.737:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0402/154902.738:ERROR:disk_cache.cc(216)] Unable to create cache
+[0402/154902.739:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-epFgIb\Default\Shared Dictionary: Access is denied. (0x5)
+[0402/154902.743:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-epFgIb\Default\Network: Access is denied. (0x5)
+[0402/154930.083:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oIRA9T\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0402/154930.094:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oIRA9T\Default\Shared Dictionary: Access is denied. (0x5)
+[0402/154930.095:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/154930.096:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/154930.097:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/154930.097:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oIRA9T\Default\Code Cache\js
+[0402/154930.097:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oIRA9T\Default\Network: Access is denied. (0x5)
+[0402/154930.098:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0402/154930.098:ERROR:disk_cache.cc(216)] Unable to create cache
+[0402/154930.099:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/154930.099:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oIRA9T\Default\Code Cache\wasm
+[0402/154930.100:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0402/154930.100:ERROR:disk_cache.cc(216)] Unable to create cache
+[0402/154930.110:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oIRA9T\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0402/154931.111:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oIRA9T\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oIRA9T\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/154932.126:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oIRA9T\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oIRA9T\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/154933.145:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oIRA9T\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oIRA9T\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/154934.153:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oIRA9T\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oIRA9T\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/154935.164:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oIRA9T\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-oIRA9T\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/154940.835:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-K0GrVG\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0402/154940.859:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/154940.859:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/154940.860:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-K0GrVG\Default\Shared Dictionary: Access is denied. (0x5)
+[0402/154940.861:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/154940.861:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-K0GrVG\Default\Code Cache\js
+[0402/154940.862:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0402/154940.862:ERROR:disk_cache.cc(216)] Unable to create cache
+[0402/154940.862:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-K0GrVG\Default\Network: Access is denied. (0x5)
+[0402/154940.862:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/154940.862:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-K0GrVG\Default\Code Cache\wasm
+[0402/154940.863:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0402/154940.863:ERROR:disk_cache.cc(216)] Unable to create cache
+[0402/155022.341:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qrUYm7\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0402/155022.364:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/155022.367:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qrUYm7\Default\Shared Dictionary: Access is denied. (0x5)
+[0402/155022.368:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/155022.368:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/155022.368:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qrUYm7\Default\Code Cache\wasm
+[0402/155022.370:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0402/155022.371:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qrUYm7\Default\Network: Access is denied. (0x5)
+[0402/155022.371:ERROR:disk_cache.cc(216)] Unable to create cache
+[0402/155022.371:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qrUYm7\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0402/155022.372:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/155022.372:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qrUYm7\Default\Code Cache\js
+[0402/155022.374:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0402/155022.374:ERROR:disk_cache.cc(216)] Unable to create cache
+[0402/155023.369:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qrUYm7\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qrUYm7\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/155024.382:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qrUYm7\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qrUYm7\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/155025.398:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qrUYm7\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qrUYm7\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/155026.418:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qrUYm7\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qrUYm7\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/155027.432:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qrUYm7\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-qrUYm7\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/213919.347:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-2BAxqQ\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0402/213919.349:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-2BAxqQ\Default\Shared Dictionary: Access is denied. (0x5)
+[0402/213919.350:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-2BAxqQ\Default\Network: Access is denied. (0x5)
+[0402/213919.380:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/213919.380:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/213919.381:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/213919.381:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-2BAxqQ\Default\Code Cache\wasm
+[0402/213919.381:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/213919.381:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-2BAxqQ\Default\Code Cache\js
+[0402/213919.385:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0402/213919.385:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0402/213919.385:ERROR:disk_cache.cc(216)] Unable to create cache
+[0402/213919.385:ERROR:disk_cache.cc(216)] Unable to create cache
+[0402/213919.408:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-2BAxqQ\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0402/213920.399:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-2BAxqQ\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-2BAxqQ\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/213921.447:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-2BAxqQ\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-2BAxqQ\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/213922.465:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-2BAxqQ\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-2BAxqQ\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/213923.472:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-2BAxqQ\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-2BAxqQ\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/213924.500:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-2BAxqQ\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-2BAxqQ\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/213937.972:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/213937.971:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-bm2Qb1\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0402/213937.972:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/213937.974:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/213937.974:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-bm2Qb1\Default\Code Cache\wasm
+[0402/213937.974:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/213937.974:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-bm2Qb1\Default\Code Cache\js
+[0402/213937.975:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0402/213937.975:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0402/213937.975:ERROR:disk_cache.cc(216)] Unable to create cache
+[0402/213937.975:ERROR:disk_cache.cc(216)] Unable to create cache
+[0402/213937.977:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-bm2Qb1\Default\Shared Dictionary: Access is denied. (0x5)
+[0402/213937.979:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-bm2Qb1\Default\Network: Access is denied. (0x5)
+[0402/213937.981:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-bm2Qb1\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0402/213938.985:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-bm2Qb1\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-bm2Qb1\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/213940.000:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-bm2Qb1\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-bm2Qb1\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/213941.015:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-bm2Qb1\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-bm2Qb1\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/213942.025:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-bm2Qb1\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-bm2Qb1\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/213943.034:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-bm2Qb1\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-bm2Qb1\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/213951.201:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-ly8oTv\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0402/213951.203:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-ly8oTv\Default\Shared Dictionary: Access is denied. (0x5)
+[0402/213951.204:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-ly8oTv\Default\Network: Access is denied. (0x5)
+[0402/213951.220:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/213951.221:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/213951.223:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/213951.224:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/213951.224:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-ly8oTv\Default\Code Cache\js
+[0402/213951.224:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-ly8oTv\Default\Code Cache\wasm
+[0402/213951.232:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-ly8oTv\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0402/213951.233:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0402/213951.233:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0402/213951.233:ERROR:disk_cache.cc(216)] Unable to create cache
+[0402/213951.233:ERROR:disk_cache.cc(216)] Unable to create cache
+[0402/213952.245:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-ly8oTv\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-ly8oTv\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/213953.258:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-ly8oTv\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-ly8oTv\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/213954.271:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-ly8oTv\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-ly8oTv\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/213955.297:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-ly8oTv\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-ly8oTv\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/213956.310:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-ly8oTv\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-ly8oTv\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/214314.105:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-9I0ilV\Default\Cache\Cache_Data: Access is denied. (0x5)
+[0402/214314.113:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/214314.116:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/214314.116:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-9I0ilV\Default\Code Cache\js
+[0402/214314.117:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0402/214314.117:ERROR:disk_cache.cc(216)] Unable to create cache
+[0402/214314.128:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/214314.130:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-9I0ilV\Default\Shared Dictionary: Access is denied. (0x5)
+[0402/214314.133:ERROR:simple_version_upgrade.cc(156)] Failed to write a new fake index.
+[0402/214314.134:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 8 path: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-9I0ilV\Default\Code Cache\wasm
+[0402/214314.135:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-9I0ilV\Default\Network: Access is denied. (0x5)
+[0402/214314.135:ERROR:network_service_instance_impl.cc(285)] Encountered error while migrating network context data or granting sandbox access for C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-9I0ilV\Default\Network. Result: 6: The operation completed successfully. (0x0)
+[0402/214314.135:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0402/214314.135:ERROR:disk_cache.cc(216)] Unable to create cache
+[0402/214315.143:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-9I0ilV\Default\PersistentOriginTrials: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-9I0ilV\Default\PersistentOriginTrials/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/214316.157:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-9I0ilV\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-9I0ilV\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/214317.170:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-9I0ilV\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-9I0ilV\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/214318.175:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-9I0ilV\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-9I0ilV\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0402/214319.186:WARNING:leveldb_database.cc(137)] Unable to open C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-9I0ilV\Default\shared_proto_db\metadata: IO error: C:\Users\nkrit\AppData\Local\Temp\playwright_chromiumdev_profile-9I0ilV\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
