@@ -2,10 +2,12 @@ FROM mcr.microsoft.com/playwright:v1.42.0-jammy
 
 WORKDIR /app
 
-COPY requirements.txt .
-RUN pip install -r requirements.txt
-# No need to install playwright browsers as they're already in the image
+COPY requirements.txt . 
 
-COPY . .
+# Use pip3 instead of pip
+RUN apt-get update && apt-get install -y python3-pip
+RUN pip3 install --no-cache-dir -r requirements.txt  
 
-CMD ["python", "app.py"]  
+COPY . .  
+
+CMD ["python3", "app.py"]  
