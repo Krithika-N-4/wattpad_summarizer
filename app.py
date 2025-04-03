@@ -267,4 +267,5 @@ def scrape():
         return jsonify({"error": f"An unexpected error occurred: {str(e)}"}), 500
 
 if __name__ == '__main__':
-    app.run(debug=False, host='0.0.0.0')
+    port = int(os.getenv("PORT", 5000))
+    app.run(debug=False, host='0.0.0.0', port=port)
