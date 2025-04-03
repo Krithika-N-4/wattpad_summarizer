@@ -114,7 +114,7 @@ def summarize_with_groq(text, chapter_title):
         logger.exception(f"Error in summarize_with_groq: {str(e)}")
         return None, f"Failed to summarize: {str(e)}"
     
-@app.route('/summarize', methods=['POST'])
+@app.route('/summarize', methods=['GET','POST'])
 def summarize_text():
     """Send text file content to Groq API and return the summary."""
     try:
