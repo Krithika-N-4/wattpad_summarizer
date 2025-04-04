@@ -203,10 +203,14 @@ def scrape():
                 "error": "Scraping script failed", 
                 "details": result.stderr
             }), 500
-
+            
         # Parse the JSON output from the scraping script
+
         try:
             scrape_output = json.loads(result.stdout.strip()) if result.stdout.strip() else {}
+            
+            # Log the entire scrape output for debugging
+            logger.info(f"Scraping script output: {scrape_output}")
             
             if "error" in scrape_output:
                 logger.error(f"Error from scraping script: {scrape_output['error']}")
@@ -214,23 +218,19 @@ def scrape():
                 
             chapter_title = scrape_output.get("title", "Untitled Chapter")
             filename = scrape_output.get("filename", "")
-
+            
+            # Add validation for empty filename
             if not filename:
                 logger.error("No filename returned from scraping script")
                 return jsonify({"error": "Failed to save file - no filename returned"}), 500
-
-            logger.info(f"Successfully scraped chapter: {chapter_title}")
             
-            # Get the full file path
+            # Validate file exists before proceeding
             file_path = os.path.join(UPLOAD_FOLDER, filename)
+            if not os.path.exists(file_path):
+                logger.error(f"Scraped file not found at path: {file_path}")
+                return jsonify({"error": "Scraped file not found"}), 500
             
-            # Call the summarization endpoint
-            summary_response = requests.post(
-                f"http://{request.host}/summarize",
-                json={"filename": filename},  # This sets the correct Content-Type header
-                headers={"Content-Type": "application/json"},  # Add explicit header for clarity
-                timeout=300  # Longer timeout for API inference
-            )
+            logger.info(f"Successfully scraped chapter: {chapter_title} to file: {filename}")
             
             if summary_response.status_code != 200:
                 logger.error(f"Summarization failed: {summary_response.status_code} - {summary_response.text}")
