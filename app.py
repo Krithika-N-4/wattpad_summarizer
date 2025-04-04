@@ -71,7 +71,7 @@ def summarize_with_groq(text, chapter_title):
         # Prepare the prompt for the API
         prompt = f"""This is a chapter of a Wattpad story. Read the entire chapter carefully and summarize it in a story format.
 
-        IMPORTANT: Pay special attention to character names, places, and key terms exactly as they appear in the original text. Do not substitute or change any proper nouns. Maintain all character relationships and dynamics exactly as presented.
+        IMPORTANT: Pay special attention to character names, places, and key terms exactly as they appear in the original text. Do not substitute or change any proper nouns. Do not change any character relationships and dynamics exactly as presented.
 
         Ensure the summary is a rich, immersive retelling that mirrors the original narrative while maintaining its tone, style, and pacing in a seamless flow.
 
@@ -205,7 +205,6 @@ def scrape():
             }), 500
             
         # Parse the JSON output from the scraping script
-
         try:
             scrape_output = json.loads(result.stdout.strip()) if result.stdout.strip() else {}
             
@@ -232,21 +231,31 @@ def scrape():
             
             logger.info(f"Successfully scraped chapter: {chapter_title} to file: {filename}")
             
-            if summary_response.status_code != 200:
-                logger.error(f"Summarization failed: {summary_response.status_code} - {summary_response.text}")
-                return jsonify({
-                    "error": "Summarization failed", 
-                    "details": summary_response.text
-                }), 500
-
-            summary_data = summary_response.json()
+            # Make internal request to summarize endpoint
+            with open(file_path, "r", encoding="utf-8") as file:
+                content = file.read()
+                logger.info(f"Read file content, length: {len(content)} characters")
+                
+            # Extract the chapter title (first line of the file)
+            lines = content.split('\n')
+            chapter_title = lines[0].strip()
             
-            if "error" in summary_data:
-                logger.error(f"Error in summary data: {summary_data['error']}")
-                return jsonify({
-                    "error": "Summarization error", 
-                    "details": summary_data["error"]
-                }), 500
+            # The rest is the text content
+            text = '\n'.join(lines[1:]).strip()
+                
+            # Call Groq API for summarization
+            summary, error = summarize_with_groq(text, chapter_title)
+            
+            if error:
+                logger.error(f"Summarization error: {error}")
+                return jsonify({"error": error}), 500
+                
+            if not summary:
+                logger.error("No summary generated from API")
+                return jsonify({"error": "No summary generated from API"}), 500
+                
+            # Format the summary
+            formatted_summary = summary.replace("\n\n", "<br><br>")
 
             # Now that we have the summary, delete the file
             try:
@@ -263,7 +272,7 @@ def scrape():
             return jsonify({
                 "message": "Scraping and summarization complete!",
                 "title": chapter_title,
-                "summary": summary_data.get("summary", "Summary not available")
+                "summary": formatted_summary
             })
 
         except json.JSONDecodeError as e:
