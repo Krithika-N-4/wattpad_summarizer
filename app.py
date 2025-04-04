@@ -118,7 +118,18 @@ def summarize_with_groq(text, chapter_title):
 def summarize_text():
     """Send text file content to Groq API and return the summary."""
     try:
-        data = request.json
+        # Check if it's POST or GET and handle data accordingly
+        if request.method == 'POST':
+            if request.is_json:
+                data = request.json
+            else:
+                # If Content-Type is not application/json
+                return jsonify({"error": "Content-Type must be application/json"}), 415
+        else:  # GET method
+            # For GET requests, get data from query parameters
+            filename = request.args.get("filename", "")
+            data = {"filename": filename}
+        
         filename = data.get("filename", "")
         
         logger.info(f"Summarizing file: {filename}")
@@ -216,7 +227,8 @@ def scrape():
             # Call the summarization endpoint
             summary_response = requests.post(
                 f"http://{request.host}/summarize",
-                json={"filename": filename},
+                json={"filename": filename},  # This sets the correct Content-Type header
+                headers={"Content-Type": "application/json"},  # Add explicit header for clarity
                 timeout=300  # Longer timeout for API inference
             )
             
